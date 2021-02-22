@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 int loopy(int);
 
@@ -28,6 +29,7 @@ int main(void)
     *(v + 1) = 44;
     printf("%d", *(v+2));
 
+    printf("%d", (2/9));
     return 0;
 }
 
