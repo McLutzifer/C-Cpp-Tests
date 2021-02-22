@@ -9,4 +9,6 @@
 /home/lukas/Documents/Programming/C-Cpp-Tests/SoloLearn_questions/main.c
 stdio.h
 -
+string.h
+-
 
